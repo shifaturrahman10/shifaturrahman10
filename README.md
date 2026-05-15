@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Shifatur Rahman 👋
+
+## Electrical Engineering Student
+
+- 🌱 Learning Technology, GitHub & Programming
+- ⚡ Interested in Tech & Development
+- 🇧🇩 From Bangladesh## Hi there 👋
 
 <!--
 **shifaturrahman10/shifaturrahman10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
