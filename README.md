@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Shifatur 👋<br><br>## Electrical Engineering Student<br><br>- 🌱 Learning Technology, GitHub & Programming<br>- ⚡ Interested in Tech & Development<br>- 🇧🇩 From Bangladesh
+# Hi, I'm Shifatur Rahman 👋<br><br>## Electrical Engineering Student<br><br>- 🌱 Learning Technology, GitHub & Programming<br>- ⚡ Interested in Tech & Development<br>- 🇧🇩 From Bangladesh
 
 
 ## 🌐 Socials:
